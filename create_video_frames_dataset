@@ -30,7 +30,7 @@ frame_frequency_mapping = {
     'waving': 3,
     'neutral': 7,
     'nodding': 5,
-    'pointing_gun': 3,
+    'pointing': 3,
     'occluded': 7
 }
 
